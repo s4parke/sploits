@@ -1,5 +1,5 @@
   
 #!/bin/sh
 
-echo "hihihih u cry now"
-ls $1;
+ls $@;
+echo "u cry now jajajaja kbye"
