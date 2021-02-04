@@ -1,3 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
-echo "hihihih u cry now"
+printf "\nu cry";sleep 1;printf "\tjajajaja";sleep 1;printf "\tkthxbye\n"
+
