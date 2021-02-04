@@ -1,4 +1,4 @@
 #!/bin/sh
 
 ls $@;
-printf "\n\n\nu cry\t";sleep 1;printf "jajajaja\t";sleep 2;printf "kbye\n"
+printf "\nu cry";sleep 1;printf "\tjajajaja";sleep 1;printf "\tkthxbye\n"
